@@ -7,7 +7,7 @@ I'm a Junior Quality Assurance Engineer with strong attention to detail. I like 
 | Category | Tools |
 |:--|:--|
 | **Test management** | ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=247df2) ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=0073b5) ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=lightgray) ![App Radar](https://img.shields.io/badge/-App%20Radar-0A1A2F?style=flat) |
-| **Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-0A1A2F?style=flat&logo=playwright&logoColor=45ba4b) ![XCUITest](https://img.shields.io/badge/-XCUITest-0A1A2F?style=flat) |
+| **Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-0A1A2F?style=flat&logo=playwright&logoColor=45ba4b) ![XCUITest](https://img.shields.io/badge/-XCUITest-0A1A2F?style=flat&logo=xcode&logoColor=0a76ef) |
 | **Development tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-0A1A2F?style=flat&logo=visualstudiocode&logoColor=48aaeb) ![Xcode](https://img.shields.io/badge/-XCUITest-0A1A2F?style=flat&logo=xcode&logoColor=0a76ef) |
 | **API testing** | ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=f26b3a) ![Swagger](https://img.shields.io/badge/-Swagger-0A1A2F?style=flat&logo=swagger&logoColor=6a9500) ![Proxyman](https://img.shields.io/badge/-Proxyman-0A1A2F?style=flat) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=005e87) ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat) |
