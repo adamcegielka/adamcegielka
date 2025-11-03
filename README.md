@@ -13,15 +13,8 @@ I'm a Junior Quality Assurance Engineer with strong attention to detail. I like 
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=005e87) ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat) |
 | **Version control / CI** | ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github) ![Jenkins](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat&logo=jenkins&logoColor=D33833) |
 | **Debugging & Tools** | ![Chrome DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=googlechrome&logoColor=F4B400) ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0A1A2F?style=flat&logo=stackoverflow) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-0A1A2F?style=flat&logo=openai&logoColor=74aa9c) |
-| **Documentation / Collaboration** | ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=0052CC) ![Quip](https://img.shields.io/badge/-Quip-0A1A2F?style=flat&logo=quip) |
+| **Documentation** | ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=0052CC) ![Quip](https://img.shields.io/badge/-Quip-0A1A2F?style=flat&logo=quip) |
 
 
 | ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=gotham) |
 | ------------- | ------------- |
-
-### Connect with me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adam-cegielka)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/adam.cegielka/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdahoGlide)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%238A3AB9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/go_off_trip/)
