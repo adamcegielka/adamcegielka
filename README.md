@@ -12,7 +12,6 @@ I'm a Quality Assurance Engineer with strong attention to detail. I like new cha
 | **API testing** | ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=f26b3a) ![Swagger](https://img.shields.io/badge/-Swagger-0A1A2F?style=flat&logo=swagger&logoColor=6a9500) ![Proxyman](https://img.shields.io/badge/-Proxyman-0A1A2F?style=flat) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=005e87) ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat) |
 | **Version control / CI** | ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github) ![Jenkins](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat&logo=jenkins&logoColor=D33833) |
-| **Debugging & Tools** | ![Chrome DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=googlechrome&logoColor=F4B400) ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0A1A2F?style=flat&logo=stackoverflow) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-0A1A2F?style=flat&logo=openai&logoColor=74aa9c) |
 | **Documentation** | ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=0052CC) ![Quip](https://img.shields.io/badge/-Quip-0A1A2F?style=flat&logo=quip) |
 
 
